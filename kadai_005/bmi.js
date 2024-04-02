@@ -1,5 +1,8 @@
-let userName;
+let bMi;
+let weight = 68;
+let tall = 1.7;
 
-userName =(68/[1.7*1.7])
+bMi =(weight/[tall*tall])
 
-console.log(userName);
+console.log(bMi);
+
