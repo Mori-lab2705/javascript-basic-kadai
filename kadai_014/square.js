@@ -1,5 +1,5 @@
-const calculateTotal = (price)  => {
-    console.log(price **2)
+const double = (num) => {
+    return num **2;
 }
 
-calculateTotal(10);
+console.log(double(10));
